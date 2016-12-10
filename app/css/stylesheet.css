@@ -1,0 +1,86 @@
+body {
+    background-color: #3F51B5;
+}
+
+nav {
+    background-color: #E0E0E0;
+    margin-bottom: 0px !important;
+}
+
+#title {
+    text-align: right;
+}
+
+#title a {
+    color: black;
+}
+
+.nav {
+    margin-top: -25px;
+}
+
+.navbar-text {
+    font-size: 16px;
+    color: black;
+}
+
+#about {
+    margin-top: 0px;
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+}
+
+#about p {
+    margin-top: 40px;
+}
+
+#cares, .table-hover tbody tr:hover {
+    color: #FF3F80;
+}
+
+footer {
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    font-weight: bold;
+}
+
+caption, #message {
+    color: white;
+    font-size: 18px;
+}
+
+.table, .btn {
+    background-color: #FF3F80;
+    color: white;
+}
+
+tr th, .btn:hover {
+    background-color: white;
+    color: #FF3F80;
+}
+
+legend, label {
+    color: white;
+}
+
+.sex {
+    display: inline-block;
+    margin: 10px;
+}
+
+form, #message {
+    margin-top: 5%;
+}
+
+body > div {
+    margin-bottom: 5%;
+}
+
+.del-td {
+    background-color:#3F51B5;
+    border: none!important; 
+}
